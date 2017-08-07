@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DeMomentSomTres Categories v2.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-16 14:45:43+0000\n"
+"Last-Translator: Marc Queralt <marc3@demomentsomtres.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: demomentsomtres-categories.php:79
+#: demomentsomtres-categories.php:88
+#: demomentsomtres-categories.php:253
+#@ DeMomentSomTres-Categories
+msgid "DeMomentSomTres Categories"
+msgstr "DeMomentSomTres Categories"
+
+#: demomentsomtres-categories.php:93
+#@ DeMomentSomTres-Categories
+msgid "Save Changes"
+msgstr "Desar els canvis"
+
+#: demomentsomtres-categories.php:97
+#@ DeMomentSomTres-Categories
+msgid "Options"
+msgstr "Opcions"
+
+#: demomentsomtres-categories.php:128
+#@ DeMomentSomTres-Categories
+msgid "Select the categories that you want to exclude from the shortcode and the widget"
+msgstr "Escolliu les categories que vulgueu excloure tan del shortcode com del giny"
+
+#: demomentsomtres-categories.php:141
+#: demomentsomtres-categories.php:154
+#@ DeMomentSomTres-Categories
+msgid "Comma separated list of categories id."
+msgstr "Llista d&apos;identificadors de categoria separats per comes."
+
+#: demomentsomtres-categories.php:251
+#@ DeMomentSomTres-Categories
+msgid "Shows a Categories List"
+msgstr "Mostra una llista de categories"
+
+#: demomentsomtres-categories.php:267
+#@ DeMomentSomTres-Categories
+msgid "Title:"
+msgstr "Títol:"
+
+#: demomentsomtres-categories.php:269
+#@ DeMomentSomTres-Categories
+msgid "List class:"
+msgstr "Classe de la llista:"
+
+#: demomentsomtres-categories.php:271
+#@ DeMomentSomTres-Categories
+msgid "Excluded categories ID (comma separated):"
+msgstr "Categories excloses (IDs separats per comes)."
+
+#: demomentsomtres-categories.php:275
+#@ DeMomentSomTres-Categories
+msgid "Display as dropdown"
+msgstr "Mostrar com a llista desplegable"
+
+#: demomentsomtres-categories.php:278
+#@ DeMomentSomTres-Categories
+msgid "Show post counts"
+msgstr "Mostra el nombre d'entrades"
+
+#: demomentsomtres-categories.php:281
+#@ DeMomentSomTres-Categories
+msgid "Show hierarchy"
+msgstr "Mostra la jerarquia"
+
+#: demomentsomtres-categories.php:299
+#@ DeMomentSomTres-Categories
+msgid "Categories"
+msgstr "Categories"
+
+#: demomentsomtres-categories.php:319
+#@ DeMomentSomTres-Categories
+msgid "Select Category"
+msgstr "Escolliu una categoria"
+
+#: demomentsomtres-categories.php:109
+#: demomentsomtres-categories.php:111
+#@ DeMomentSomTres-Categories
+msgid "Excluded Categories"
+msgstr "Categories excloses"
+
+#: demomentsomtres-categories.php:112
+#@ DeMomentSomTres-Categories
+msgid "Use the_category filter?"
+msgstr "Activar el flitre the_category?"
+
